@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /application
+Disallow: /media
+Disallow: /modules
+Disallow: /plugins
+Disallow: /sql
+Disallow: /system
+Disallow: /test
+Disallow: /search
+
+User-agent: Google
+Allow: /
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+Sitemap: http://www.matamassa.org/SEO/sitemap.xml
+Allow: /
+Sitemap: http://www.matamassa.org/feed

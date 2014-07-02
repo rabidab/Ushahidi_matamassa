@@ -1,0 +1,203 @@
+/**
+ * Ushahidi Default theme styling
+ * 
+ * You can reuse this in your theme or replace it completely by include a 
+ * style.css file in your theme.
+ */
+
+
+/* footer */
+div#footer{
+    width: auto;
+    clear: both;
+    color: #fff;
+    padding-bottom: 20px;
+}
+
+div#footer a{
+    width: auto;
+    clear: both;
+    color: #fff;
+}
+
+div#underfooter{
+    width:auto;
+    height: 28px;
+    position: relative;
+    top: -28px;
+    z-index: -1;
+}
+
+/* site footer */
+div.site-footer{
+    padding: 15px 15px 0 15px;
+    background: #FFFFFF;
+}
+
+/* footer menu */
+div.footermenu{
+    margin: 0 10px;
+}
+
+div.footermenu ul{
+    list-style: none;
+    margin: 0 0 10px 0;
+}
+
+div.footermenu ul li{
+    list-style: none;
+    float: left;
+}
+
+div.footermenu ul li a{
+    color: #000000;
+    border-left: #FFFDCC 1px solid;
+    padding: 0 10px;
+    font-family:Open Sans;
+    text-align:center;
+}
+
+div.footermenu ul li a.item1{
+    border: none;
+    padding-left: 0;
+}
+
+div.footermenu ul li a:hover{
+    text-decoration: underline;
+    
+}
+
+/* footer credits */
+div.footer-credits{
+    float: right;
+    font-size: 70%;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 0 20px 0 0;
+}
+
+div.footer-credits .footer-logo{
+	vertical-align:middle;
+}
+
+
+/* searchbox */
+div#searchbox{
+    position: relative;
+    float:right;
+    margin-top:-3px;
+    
+}
+
+div#loggedin_user_action{
+    float:right;
+    width:100%;
+    text-align:right;
+    padding:0px 15px 0px 0px;
+}
+
+/* languages */
+div.language-box{
+    padding: 0px;
+    margin: 10px 0 0 15px;
+    float: left;
+    color: #FFFFFF;
+    font-family:Open Sans;
+    font-size:14px;
+}
+
+div.language-box a{
+    color:#FFFFFF;
+    font-weight:none;
+    
+}
+
+div.language-box select{
+    width:170px;
+    margin:0;
+    padding:5px;
+    font-size: 11px;
+    color:#FFF;
+}
+
+/* searchform */
+div.search-form{
+    padding: 0px;
+    margin: 10px 10px 0 5px;
+    float: left;
+}
+
+div.search-form ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+div.search-form ul li{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    float: left;
+}
+
+div.search-form input.text{
+    background-color: #FFFFFF;
+    background-image: url(../images/icon-search.png);
+    background-position: 7px 50%;
+    background-repeat: no-repeat;
+    border: medium none;
+    border-radius: 4px;
+    color: #BBBBBB;
+    font-family: Open Sans, Helvetica,sans-serif;
+    font-size: 12px;
+    padding: 2px 5px 4px 25px;
+    vertical-align: middle;
+    width: 150px;
+}
+
+div.search-form input.searchbtn{
+
+    text-indent: -10000px;
+    text-transform: uppercase;
+    background:#333;
+    border:none;
+}
+
+
+
+/* mainmenu */
+div#mainmenu{
+    margin-left:10px;
+    padding: 7px 1px;
+    
+}
+
+div#mainmenu ul{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    margin-left:10px;
+}
+
+div#mainmenu li{
+    float: left;
+    display: block;
+    margin-right: 1px;
+}
+
+div#mainmenu a{
+	font-family:Open Sans;
+    display: block;
+    position: aboslute;
+    padding: 10px 10px;
+    color: #CCC;
+    overflow: hidden;
+    text-transform: none;
+    font-weight: none;
+    font-size: 100%;
+}
+
+div#mainmenu a:hover, div#mainmenu a.active{
+    text-decoration: none;
+    color:#FFF;
+}

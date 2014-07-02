@@ -1,0 +1,17 @@
+[16-Nov-2013 03:13:21] PHP Parse error:  syntax error, unexpected T_ECHO in /home3/matamas2/public_html/themes/default/views/main/timeline.php on line 35
+[16-Nov-2013 03:14:13] PHP Parse error:  syntax error, unexpected T_ECHO in /home3/matamas2/public_html/themes/default/views/main/timeline.php on line 34
+[16-Nov-2013 15:22:15] PHP Parse error:  syntax error, unexpected $end in /home3/matamas2/public_html/themes/default/views/login/main.php on line 193
+[20-Nov-2013 14:27:03 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''layers_' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home3/matamas2/public_html/application/i18n/en_US/ui_main.php on line 254
+[20-Nov-2013 14:28:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''The ' (T_ENCAPSED_AND_WHITESPACE) in /home3/matamas2/public_html/application/i18n/en_US/ui_main.php on line 355
+[20-Nov-2013 14:29:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<str' (T_ENCAPSED_AND_WHITESPACE) in /home3/matamas2/public_html/application/i18n/en_US/ui_main.php on line 35
+[20-Nov-2013 14:30:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''You already have an account m' (T_ENCAPSED_AND_WHITESPACE) in /home3/matamas2/public_html/application/i18n/en_US/ui_main.php on line 457
+[20-Nov-2013 14:30:34 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''You already have an account m' (T_ENCAPSED_AND_WHITESPACE) in /home3/matamas2/public_html/application/i18n/en_US/ui_main.php on line 457
+[20-Nov-2013 14:35:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''layers_fi' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home3/matamas2/public_html/application/i18n/en_US/ui_main.php on line 254
+[20-Nov-2013 00:43:38 America/Denver] PHP Warning:  unlink(/home3/matamas2/public_html/application/cache/kohana_language): No such file or directory in /home3/matamas2/public_html/system/core/Kohana.php on line 593
+[21-Nov-2013 05:31:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '<' in /home3/matamas2/public_html/themes/default/views/main/layout.php on line 78
+[21-Nov-2013 23:09:33 Asia/Jakarta] PHP Notice: A feed could not be found at  in /home3/matamas2/public_html/application/libraries/SimplePie.php on line 1786
+[22-Nov-2013 00:24:53 Asia/Jakarta] PHP Notice: A feed could not be found at  in /home3/matamas2/public_html/application/libraries/SimplePie.php on line 1786
+[22-Nov-2013 21:14:46 Asia/Jakarta] PHP Notice: A feed could not be found at  in /home3/matamas2/public_html/application/libraries/SimplePie.php on line 1786
+[22-Nov-2013 22:21:20 Asia/Jakarta] PHP Notice: A feed could not be found at  in /home3/matamas2/public_html/application/libraries/SimplePie.php on line 1786
+[23-Nov-2013 00:13:16 Asia/Jakarta] PHP Fatal error:  Uncaught Database error: Duplicate entry '1oudv4ldvmcehhsn917ib3o5k5' for key 'PRIMARY' - INSERT INTO `sessions` (`session_id`, `last_activity`, `data`) VALUES ('1oudv4ldvmcehhsn917ib3o5k5', 1385140396, 'Tk/DNO84LvsDQO6UQ2KRHFphdtCG0V787iVLA3TT0S/MyTeXjhyd2+agQpf33e6LDL95eZkFm+w2Yk/ZWW1fLe1QcfwCSGIsT3VYktHDhb8RNVhpCp4PCqaEmBmSBUMYBEbHl+0K6FvUqmnh0RQuZJPpyruKdQNS5rUM/ZsHIAi6j7pFtIDCqnf090rxTIlgoCI363uzrRM2/FBRZmPJ8ujpdF268qnRkhPDIpChg1MndS2SNgzMfEwPlE8I84f1kusVn5iVuSz3Itx8lmiGeds7d9hKtgkPM0PAB5smbGOyNGUpy3PeqKJCuanbGPMVsdsvSFaiV2jxQgM=')
+  thrown in /home3/matamas2/public_html/system/libraries/drivers/Database/Mysqli.php on line 159

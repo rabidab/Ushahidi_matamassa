@@ -1,0 +1,20 @@
+s:924:"<ul data-role="listview">
+		<li class="cellItem">
+			<a class="tag" href="nav://list/http%3A%2F%2Fwww.matamassa.org%2Fblog%2F%3Fwiziapp%2Fcontent%2Flist%2Ftag%2F24" data-transition="slide">
+				<div class="title attribute text_attribute tag_title">Siaran Pers: Ratusan Laporan Pelanggaran Pemilu telah Masuk Melalui MataMassa</div>
+				<div class="numOfLinks attribute text_attribute hidden">1 links</div>
+				<div class="attribute text_attribute category_posts_number">1 posts</div>
+			</a>
+		</li>
+		
+
+		<li class="cellItem">
+			<a class="tag" href="nav://list/http%3A%2F%2Fwww.matamassa.org%2Fblog%2F%3Fwiziapp%2Fcontent%2Flist%2Ftag%2F9" data-transition="slide">
+				<div class="title attribute text_attribute tag_title">Wahyu Dhyatmika</div>
+				<div class="numOfLinks attribute text_attribute hidden">1 links</div>
+				<div class="attribute text_attribute category_posts_number">1 posts</div>
+			</a>
+		</li>
+		
+</ul>
+";
