@@ -1,4 +1,4 @@
-s:27970:"<!DOCTYPE html>
+s:27955:"<!DOCTYPE html>
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
@@ -63,7 +63,7 @@ var wiziapp_name_space = {"home_url":"http:\/\/www.matamassa.org\/blog","wiziapp
 		</script>
 			<!-- wp_head end -->
 </head>
-<body class="home blog iphone_general">
+<body class="home blog">
 	<div data-role="page" data-theme="c" class="recent_loaded_event">
 		<div data-role="header" data-id="header" data-position="fixed" class="navigation">
 			
@@ -82,7 +82,7 @@ var wiziapp_name_space = {"home_url":"http:\/\/www.matamassa.org\/blog","wiziapp
 				<span class="attribute hidden">Pada Kamis (19/6) lalu, Matamassa mengadakan ...</span>
 				<span class="attribute featured_post_rating">0</span>
 				<div class="combined_attributes webapp_post_details">
-					<span class="webapp_post_date featured_post_date_webapp">2 weeks ago</span>
+					<span class="webapp_post_date featured_post_date_webapp">Jun, 21, 14</span>
 					<span class="webapp_post_date hidden"> Mata Massa</span>
 				</div>
 				<span class="attribute valign_attribute numOfComments hidden">0</span>
@@ -100,7 +100,7 @@ var wiziapp_name_space = {"home_url":"http:\/\/www.matamassa.org\/blog","wiziapp
 				<span class="attribute hidden">JAKARTA - Selama tiga pekan pertama dalam mas...</span>
 				<span class="attribute hidden">0</span>
 				<div class="combined_attributes webapp_post_details">
-					<span class="webapp_post_date general_post_date_webapp">2 weeks ago</span>
+					<span class="webapp_post_date general_post_date_webapp">Jun, 21, 14</span>
 					<span class="webapp_post_date hidden"> Mata Massa</span>
 				</div>
 				<span class="attribute valign_attribute numOfComments general_post_numOfComments_webapp">0</span>
@@ -117,7 +117,7 @@ var wiziapp_name_space = {"home_url":"http:\/\/www.matamassa.org\/blog","wiziapp
 				<span class="attribute hidden">Kampanye menuju pemilihan presiden berlangsun...</span>
 				<span class="attribute hidden">0</span>
 				<div class="combined_attributes webapp_post_details">
-					<span class="webapp_post_date general_post_date_webapp">3 weeks ago</span>
+					<span class="webapp_post_date general_post_date_webapp">Jun, 14, 14</span>
 					<span class="webapp_post_date hidden"> Mata Massa</span>
 				</div>
 				<span class="attribute valign_attribute numOfComments general_post_numOfComments_webapp">0</span>

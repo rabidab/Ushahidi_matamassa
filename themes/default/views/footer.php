@@ -16,13 +16,13 @@
 
 			<!-- footer credits -->
 			<div class="footer-credits" style="margin-top:30px;">
-					<a href="https://www.facebook.com/matamassaIND">
+					<a href="https://www.facebook.com/matamassaIND" target="_blank">
 						<img src="<?php echo url::file_loc('img'); ?>themes/default/images/fb.png" style="width:30px" class="footer-logo" target="_blank"/></a>
-					<a href="http://www.twitter.com/MataMassa">
+					<a href="http://www.twitter.com/MataMassa" target="_blank">
 						<img src="<?php echo url::file_loc('img'); ?>themes/default/images/tw.png" style="width:30px" class="footer-logo" /></a>
 					<a href="#">
 						<img src="<?php echo url::file_loc('img'); ?>themes/default/images/vm.png" style="width:30px" class="footer-logo" /></a>
-					<a href="#">
+					<a href="https://www.flickr.com/photos/matamassa" target="_blank">
 						<img src="<?php echo url::file_loc('img'); ?>themes/default/images/fl.png" style="width:30px" class="footer-logo" /></a>
 					<a href="http://www.matamassa.org/feed">
 						<img src="<?php echo url::file_loc('img'); ?>themes/default/images/feed.png" style="width:30px" class="footer-logo" /></a>

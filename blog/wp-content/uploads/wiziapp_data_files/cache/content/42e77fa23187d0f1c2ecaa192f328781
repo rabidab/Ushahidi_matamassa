@@ -1,4 +1,4 @@
-s:22845:"<!DOCTYPE html>
+s:22858:"<!DOCTYPE html>
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
@@ -64,7 +64,7 @@ var wiziapp_name_space = {"home_url":"http:\/\/www.matamassa.org\/blog","wiziapp
 		</script>
 			<!-- wp_head end -->
 </head>
-<body class="archive category category-kolom category-1">
+<body class="archive category category-kolom category-1 ipad_general">
 	<div data-role="page" data-theme="c" class="recent_loaded_event">
 		<div data-role="header" data-id="header" data-position="fixed" class="navigation">
 				<a data-role="button" data-corners="false" data-theme="z" href="nav://list/http%3A%2F%2Fwww.matamassa.org%2Fblog%2F%3Fwiziapp%2Fcontent%2Flist%2Fcategories" class="navigation_back_button_wrapper ui-btn-left" data-direction="reverse">
